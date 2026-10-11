@@ -1,0 +1,1435 @@
+{
+  "title": "Reboot plan, 6 Oct to 4 Nov 2026",
+  "days": [
+    {
+      "n": 2,
+      "date": "2026-10-06",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Cardio + posture",
+        "Climber 8",
+        "Chloe Ting 1"
+      ],
+      "note": "Your cardio base is good, so start brisk: you should be able to talk, but not chat easily.",
+      "warmup": "dynamic",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 15 min: 5.5 km/h, incline 5%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 8 min, level 3",
+          "img": "climber",
+          "climber": true,
+          "tip": "Rails held lightly, upright, full foot on each step."
+        },
+        {
+          "text": "Posture: seated cable row, 2 x 12",
+          "img": "row",
+          "tip": "Moderate weight. Shoulders back and down."
+        },
+        {
+          "text": "Posture: lat pulldown, 2 x 12",
+          "img": "pulldown",
+          "tip": "Moderate weight, no extra arm work."
+        },
+        {
+          "text": "Posture: face pull, 2 x 15",
+          "img": "facepull",
+          "tip": "Opens the chest and shows the collarbones."
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 1",
+            "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+          },
+          {
+            "text": "Hip finisher: standing knee raises, 2 x 15 per leg",
+            "img": "kneeup",
+            "tip": "Slow, knee to hip height."
+          },
+          {
+            "text": "Hip finisher: seated knee raises, 2 x 12 per leg",
+            "img": "seatedknee",
+            "tip": "Seated on a chair, light weight on the knee if easy."
+          },
+          {
+            "text": "Hip finisher: front leg raises, 2 x 12 per leg",
+            "img": "frontraise",
+            "tip": "Leg straight, slow. Ankle weights only once it feels easy."
+          },
+          {
+            "text": "Hip finisher: side-lying leg raises, toes pointing slightly down, 2 x 15 per leg",
+            "img": "sideraise",
+            "tip": "Lying on your side, top leg internally rotated. The one commenters say helps most."
+          }
+        ]
+      }
+    },
+    {
+      "n": 3,
+      "date": "2026-10-07",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Legs: quads",
+        "Climber 8",
+        "Chloe Ting 2"
+      ],
+      "note": "Pick weights where the last 2 to 3 reps of each set feel hard. Go up gradually, joints adapt slower than muscles.",
+      "warmup": "mobility",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 10 min: 5.5 km/h, incline 5%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 8 min, level 3",
+          "img": "climber",
+          "climber": true,
+          "tip": "Steady."
+        },
+        {
+          "text": "Leg press, feet narrow and low on the platform, 3 x 12",
+          "img": "legpress",
+          "tip": "Outer quad focus. Knees all the way to the chest, never lock the knees at the top. Last 2 reps should feel close to failure."
+        },
+        {
+          "text": "Deficit goblet squat, 3 x 12",
+          "img": "goblet",
+          "tip": "Heels on a small plate for a deeper squat. Amanda's main quad move."
+        },
+        {
+          "text": "Bulgarian split squat, 3 x 10 per leg",
+          "img": "split",
+          "tip": "Back foot on a bench. Stay upright for more quad."
+        },
+        {
+          "text": "Leg extension, 3 x 15",
+          "img": "legext",
+          "tip": "Slow on the way down."
+        },
+        {
+          "text": "Core: dead bug 2 x 10 per side + stomach vacuum 3 x 20 s",
+          "img": "deadbug",
+          "tip": "Deep core for a smaller waist. No weighted side bends."
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 2",
+            "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+          }
+        ]
+      }
+    },
+    {
+      "n": 4,
+      "date": "2026-10-08",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Cardio",
+        "Climber 12",
+        "Chloe Ting 3"
+      ],
+      "warmup": "dynamic",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 15 min: 5.8 km/h, incline 6%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 12 min, level 3 / 4",
+          "img": "climber",
+          "climber": true,
+          "tip": "Alternate 1 min level 4, 1 min level 3."
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 3",
+            "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+          },
+          {
+            "text": "Hip finisher: standing knee raises, 2 x 15 per leg",
+            "img": "kneeup",
+            "tip": "Slow, knee to hip height."
+          },
+          {
+            "text": "Hip finisher: seated knee raises, 2 x 12 per leg",
+            "img": "seatedknee",
+            "tip": "Seated on a chair, light weight on the knee if easy."
+          },
+          {
+            "text": "Hip finisher: front leg raises, 2 x 12 per leg",
+            "img": "frontraise",
+            "tip": "Leg straight, slow. Ankle weights only once it feels easy."
+          },
+          {
+            "text": "Hip finisher: side-lying leg raises, toes pointing slightly down, 2 x 15 per leg",
+            "img": "sideraise",
+            "tip": "Lying on your side, top leg internally rotated. The one commenters say helps most."
+          }
+        ]
+      }
+    },
+    {
+      "n": 5,
+      "date": "2026-10-09",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Legs: glutes",
+        "Climber 10",
+        "Chloe Ting 4"
+      ],
+      "warmup": "mobility",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 10 min: 5.5 km/h, incline 5%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 10 min, level 3",
+          "img": "climber",
+          "climber": true,
+          "tip": "Steady."
+        },
+        {
+          "text": "Hip thrust, 3 x 12",
+          "img": "hipthrust",
+          "tip": "Chin tucked, pause 1 s at the top. Last 2 reps should feel close to failure."
+        },
+        {
+          "text": "Romanian deadlift with dumbbells, 3 x 12",
+          "img": "rdl",
+          "tip": "Hips back, slight knee bend, feel it in the hamstrings."
+        },
+        {
+          "text": "Leg press, feet wide and high, toes turned out, 3 x 12",
+          "img": "legpress",
+          "tip": "Glutes and glute medius for upper hip width."
+        },
+        {
+          "text": "Hip abduction machine, leaning forward, 3 x 15",
+          "img": "abduct",
+          "tip": "Upper side glutes, right above the hip dip."
+        },
+        {
+          "text": "Cable kickback, 3 x 12 per leg",
+          "img": "kick",
+          "tip": "Small range, squeeze at the back."
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 4",
+            "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+          }
+        ]
+      }
+    },
+    {
+      "n": 6,
+      "date": "2026-10-10",
+      "kind": "Home",
+      "time": "11:00",
+      "tags": [
+        "Chloe Ting 5",
+        "No gym"
+      ],
+      "note": "No gym today, tomorrow is the hike. Early night and a proper dinner with carbs.",
+      "warmup": "dynamic",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Chloe Ting 2024 Weight Loss Challenge, Day 5",
+          "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+        },
+        {
+          "text": "Hip finisher: standing knee raises, 2 x 15 per leg",
+          "img": "kneeup",
+          "tip": "Slow, knee to hip height."
+        },
+        {
+          "text": "Hip finisher: seated knee raises, 2 x 12 per leg",
+          "img": "seatedknee",
+          "tip": "Seated on a chair, light weight on the knee if easy."
+        },
+        {
+          "text": "Hip finisher: front leg raises, 2 x 12 per leg",
+          "img": "frontraise",
+          "tip": "Leg straight, slow. Ankle weights only once it feels easy."
+        },
+        {
+          "text": "Hip finisher: side-lying leg raises, toes pointing slightly down, 2 x 15 per leg",
+          "img": "sideraise",
+          "tip": "Lying on your side, top leg internally rotated. The one commenters say helps most."
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "date": "2026-10-11",
+      "kind": "Hike",
+      "time": "morning",
+      "tags": [
+        "15 km hike",
+        "With dad"
+      ],
+      "note": "Flat, beginner-friendly trail, and your dad is restarting too, so set an easy pace together. It is mostly a long day on your feet: about 3.5 to 4 hours. Take a 5 min break every hour and look after your feet. Chloe Ting rest day.",
+      "warmup": "dynamic",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "15 km hike"
+        },
+        {
+          "text": "Water: about 0.5 L per hour, plus snacks (dates, banana, sandwich)"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "date": "2026-10-12",
+      "kind": "Rest",
+      "time": "none",
+      "tags": [
+        "Full rest"
+      ],
+      "note": "Full rest, non-negotiable while you're in a deficit. Normal steps and gentle stretching only. Chloe Ting rest day.",
+      "warmup": null,
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Rest. Normal daily steps, sleep well, drink water"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "date": "2026-10-13",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Cardio + posture",
+        "Climber 15",
+        "Chloe Ting 6"
+      ],
+      "note": "If legs still feel the hike, keep the climber steady instead of pushing the level.",
+      "warmup": "dynamic",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 15 min: 5.8 km/h, incline 6%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 15 min, level 4",
+          "img": "climber",
+          "climber": true,
+          "tip": "Two blocks of 7.5 min, 1 min rest between."
+        },
+        {
+          "text": "Posture: seated cable row, 3 x 12",
+          "img": "row",
+          "tip": "Moderate weight. Shoulders back and down."
+        },
+        {
+          "text": "Posture: lat pulldown, 3 x 12",
+          "img": "pulldown",
+          "tip": "Moderate weight, no extra arm work."
+        },
+        {
+          "text": "Posture: face pull, 3 x 15",
+          "img": "facepull",
+          "tip": "Opens the chest and shows the collarbones."
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 6",
+            "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+          },
+          {
+            "text": "Hip finisher: standing knee raises, 2 x 15 per leg",
+            "img": "kneeup",
+            "tip": "Slow, knee to hip height."
+          },
+          {
+            "text": "Hip finisher: seated knee raises, 2 x 12 per leg",
+            "img": "seatedknee",
+            "tip": "Seated on a chair, light weight on the knee if easy."
+          },
+          {
+            "text": "Hip finisher: front leg raises, 2 x 12 per leg",
+            "img": "frontraise",
+            "tip": "Leg straight, slow. Ankle weights only once it feels easy."
+          },
+          {
+            "text": "Hip finisher: side-lying leg raises, toes pointing slightly down, 2 x 15 per leg",
+            "img": "sideraise",
+            "tip": "Lying on your side, top leg internally rotated. The one commenters say helps most."
+          }
+        ]
+      }
+    },
+    {
+      "n": 10,
+      "date": "2026-10-14",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Legs: quads",
+        "Climber 12",
+        "Chloe Ting 7"
+      ],
+      "note": "Go one notch heavier on any move where 12 reps felt easy last week.",
+      "warmup": "mobility",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 10 min: 5.8 km/h, incline 6%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 12 min, level 4",
+          "img": "climber",
+          "climber": true,
+          "tip": "Steady."
+        },
+        {
+          "text": "Leg press, feet narrow and low on the platform, 3 x 12",
+          "img": "legpress",
+          "tip": "Outer quad focus. Knees all the way to the chest, never lock the knees at the top. Last 2 reps should feel close to failure."
+        },
+        {
+          "text": "Deficit goblet squat, 3 x 12",
+          "img": "goblet",
+          "tip": "Heels on a small plate for a deeper squat. Amanda's main quad move."
+        },
+        {
+          "text": "Bulgarian split squat, 3 x 10 per leg",
+          "img": "split",
+          "tip": "Back foot on a bench. Stay upright for more quad."
+        },
+        {
+          "text": "Leg extension, 3 x 15",
+          "img": "legext",
+          "tip": "Slow on the way down."
+        },
+        {
+          "text": "Core: dead bug 2 x 10 per side + stomach vacuum 3 x 20 s",
+          "img": "deadbug",
+          "tip": "Deep core for a smaller waist. No weighted side bends."
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 7",
+            "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+          }
+        ]
+      }
+    },
+    {
+      "n": 11,
+      "date": "2026-10-15",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Cardio",
+        "Climber 18",
+        "Chloe Ting 8"
+      ],
+      "warmup": "dynamic",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 15 min: 6.0 km/h, incline 7%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 18 min, level 4 / 5",
+          "img": "climber",
+          "climber": true,
+          "tip": "Alternate 1 min level 5, 1 min level 4."
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 8",
+            "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+          },
+          {
+            "text": "Hip finisher: standing knee raises, 2 x 15 per leg",
+            "img": "kneeup",
+            "tip": "Slow, knee to hip height."
+          },
+          {
+            "text": "Hip finisher: seated knee raises, 2 x 12 per leg",
+            "img": "seatedknee",
+            "tip": "Seated on a chair, light weight on the knee if easy."
+          },
+          {
+            "text": "Hip finisher: front leg raises, 2 x 12 per leg",
+            "img": "frontraise",
+            "tip": "Leg straight, slow. Ankle weights only once it feels easy."
+          },
+          {
+            "text": "Hip finisher: side-lying leg raises, toes pointing slightly down, 2 x 15 per leg",
+            "img": "sideraise",
+            "tip": "Lying on your side, top leg internally rotated. The one commenters say helps most."
+          }
+        ]
+      }
+    },
+    {
+      "n": 12,
+      "date": "2026-10-16",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Legs: glutes",
+        "Climber 12",
+        "Chloe Ting 9"
+      ],
+      "warmup": "mobility",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 10 min: 5.8 km/h, incline 6%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 12 min, level 4",
+          "img": "climber",
+          "climber": true,
+          "tip": "Steady."
+        },
+        {
+          "text": "Hip thrust, 3 x 12",
+          "img": "hipthrust",
+          "tip": "Chin tucked, pause 1 s at the top. Last 2 reps should feel close to failure."
+        },
+        {
+          "text": "Romanian deadlift with dumbbells, 3 x 12",
+          "img": "rdl",
+          "tip": "Hips back, slight knee bend, feel it in the hamstrings."
+        },
+        {
+          "text": "Leg press, feet wide and high, toes turned out, 3 x 12",
+          "img": "legpress",
+          "tip": "Glutes and glute medius for upper hip width."
+        },
+        {
+          "text": "Hip abduction machine, leaning forward, 3 x 15",
+          "img": "abduct",
+          "tip": "Upper side glutes, right above the hip dip."
+        },
+        {
+          "text": "Cable kickback, 3 x 12 per leg",
+          "img": "kick",
+          "tip": "Small range, squeeze at the back."
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 9",
+            "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+          }
+        ]
+      }
+    },
+    {
+      "n": 13,
+      "date": "2026-10-17",
+      "kind": "Home",
+      "time": "11:00",
+      "tags": [
+        "Chloe Ting 10",
+        "Walk"
+      ],
+      "warmup": "dynamic",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Chloe Ting 2024 Weight Loss Challenge, Day 10",
+          "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+        },
+        {
+          "text": "Hip finisher: standing knee raises, 2 x 15 per leg",
+          "img": "kneeup",
+          "tip": "Slow, knee to hip height."
+        },
+        {
+          "text": "Hip finisher: seated knee raises, 2 x 12 per leg",
+          "img": "seatedknee",
+          "tip": "Seated on a chair, light weight on the knee if easy."
+        },
+        {
+          "text": "Hip finisher: front leg raises, 2 x 12 per leg",
+          "img": "frontraise",
+          "tip": "Leg straight, slow. Ankle weights only once it feels easy."
+        },
+        {
+          "text": "Hip finisher: side-lying leg raises, toes pointing slightly down, 2 x 15 per leg",
+          "img": "sideraise",
+          "tip": "Lying on your side, top leg internally rotated. The one commenters say helps most."
+        },
+        {
+          "text": "Walk 30 to 40 min",
+          "img": "treadmill",
+          "tip": "Outside is perfect"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "date": "2026-10-18",
+      "kind": "Recovery",
+      "time": "any",
+      "tags": [
+        "Active rest"
+      ],
+      "note": "Chloe Ting rest day. An easy walk and a full stretch, nothing more.",
+      "warmup": null,
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Easy walk 30 to 40 min"
+        },
+        {
+          "text": "Full static stretching, 10 min (pictures below)"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "date": "2026-10-19",
+      "kind": "Gym",
+      "time": "09:00",
+      "tags": [
+        "Check-in day",
+        "Climber 25"
+      ],
+      "note": "Last day of the phase, and a Chloe Ting rest day. Compare with day 1 (1.3 km in 23 min). Next: phase 2 up to the wedding.",
+      "warmup": "dynamic",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 25 min: 6.0 km/h, incline 6%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 25 min, level 4",
+          "img": "climber",
+          "climber": true,
+          "tip": "Continuous. Note how it feels versus day 2."
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "date": "2026-10-20",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Cardio + posture",
+        "Climber 20",
+        "Chloe Ting 11"
+      ],
+      "note": "Phase 2 starts. Same structure, more climber, heavier strength. Chloe Ting continues in its own order.",
+      "warmup": "dynamic",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 15 min: 6.0 km/h, incline 7%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 20 min, level 4",
+          "img": "climber",
+          "climber": true,
+          "tip": "Continuous, or two blocks of 10 min."
+        },
+        {
+          "text": "Posture: seated cable row, 3 x 12",
+          "img": "row",
+          "tip": "Moderate weight. Shoulders back and down."
+        },
+        {
+          "text": "Posture: lat pulldown, 3 x 12",
+          "img": "pulldown",
+          "tip": "Moderate weight, no extra arm work."
+        },
+        {
+          "text": "Posture: face pull, 3 x 15",
+          "img": "facepull",
+          "tip": "Opens the chest and shows the collarbones."
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 11",
+            "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+          },
+          {
+            "text": "Hip finisher: standing knee raises, 2 x 15 per leg",
+            "img": "kneeup",
+            "tip": "Slow, knee to hip height."
+          },
+          {
+            "text": "Hip finisher: seated knee raises, 2 x 12 per leg",
+            "img": "seatedknee",
+            "tip": "Seated on a chair, light weight on the knee if easy."
+          },
+          {
+            "text": "Hip finisher: front leg raises, 2 x 12 per leg",
+            "img": "frontraise",
+            "tip": "Leg straight, slow. Ankle weights only once it feels easy."
+          },
+          {
+            "text": "Hip finisher: side-lying leg raises, toes pointing slightly down, 2 x 15 per leg",
+            "img": "sideraise",
+            "tip": "Lying on your side, top leg internally rotated. The one commenters say helps most."
+          }
+        ]
+      }
+    },
+    {
+      "n": 17,
+      "date": "2026-10-21",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Legs: quads",
+        "Heavier",
+        "Chloe Ting 12"
+      ],
+      "note": "Phase 2 strength: 3 sets of 10 with a bit more weight. The last 2 reps should be hard but clean.",
+      "warmup": "mobility",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 10 min: 5.8 km/h, incline 6%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 12 min, level 4",
+          "img": "climber",
+          "climber": true,
+          "tip": "Steady."
+        },
+        {
+          "text": "Leg press, feet narrow and low on the platform, 3 x 10, heavier",
+          "img": "legpress",
+          "tip": "Outer quad focus. Knees all the way to the chest, never lock the knees at the top. Last 2 reps should feel close to failure."
+        },
+        {
+          "text": "Deficit goblet squat, 3 x 10, heavier",
+          "img": "goblet",
+          "tip": "Heels on a small plate for a deeper squat. Amanda's main quad move."
+        },
+        {
+          "text": "Bulgarian split squat, 3 x 10 per leg",
+          "img": "split",
+          "tip": "Back foot on a bench. Stay upright for more quad."
+        },
+        {
+          "text": "Leg extension, 3 x 15",
+          "img": "legext",
+          "tip": "Slow on the way down."
+        },
+        {
+          "text": "Core: dead bug 2 x 10 per side + stomach vacuum 3 x 20 s",
+          "img": "deadbug",
+          "tip": "Deep core for a smaller waist. No weighted side bends."
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 12",
+            "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+          }
+        ]
+      }
+    },
+    {
+      "n": 18,
+      "date": "2026-10-22",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Climber intervals",
+        "Chloe Ting 13"
+      ],
+      "warmup": "dynamic",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Stair climber 20 min, level 3 / 5",
+          "img": "climber",
+          "climber": true,
+          "tip": "Alternate 1 min level 5, 1 min level 3."
+        },
+        {
+          "text": "Treadmill 15 min: 5.8 km/h, incline 8%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 13",
+            "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+          },
+          {
+            "text": "Hip finisher: standing knee raises, 2 x 15 per leg",
+            "img": "kneeup",
+            "tip": "Slow, knee to hip height."
+          },
+          {
+            "text": "Hip finisher: seated knee raises, 2 x 12 per leg",
+            "img": "seatedknee",
+            "tip": "Seated on a chair, light weight on the knee if easy."
+          },
+          {
+            "text": "Hip finisher: front leg raises, 2 x 12 per leg",
+            "img": "frontraise",
+            "tip": "Leg straight, slow. Ankle weights only once it feels easy."
+          },
+          {
+            "text": "Hip finisher: side-lying leg raises, toes pointing slightly down, 2 x 15 per leg",
+            "img": "sideraise",
+            "tip": "Lying on your side, top leg internally rotated. The one commenters say helps most."
+          }
+        ]
+      }
+    },
+    {
+      "n": 19,
+      "date": "2026-10-23",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Legs: glutes",
+        "Heavier",
+        "Chloe Ting 14"
+      ],
+      "warmup": "mobility",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 10 min: 5.8 km/h, incline 6%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 12 min, level 4",
+          "img": "climber",
+          "climber": true,
+          "tip": "Steady."
+        },
+        {
+          "text": "Hip thrust, 3 x 10, heavier",
+          "img": "hipthrust",
+          "tip": "Chin tucked, pause 1 s at the top. Last 2 reps should feel close to failure."
+        },
+        {
+          "text": "Romanian deadlift with dumbbells, 3 x 10, heavier",
+          "img": "rdl",
+          "tip": "Hips back, slight knee bend, feel it in the hamstrings."
+        },
+        {
+          "text": "Leg press, feet wide and high, toes turned out, 3 x 12",
+          "img": "legpress",
+          "tip": "Glutes and glute medius for upper hip width."
+        },
+        {
+          "text": "Hip abduction machine, leaning forward, 3 x 15",
+          "img": "abduct",
+          "tip": "Upper side glutes, right above the hip dip."
+        },
+        {
+          "text": "Cable kickback, 3 x 12 per leg",
+          "img": "kick",
+          "tip": "Small range, squeeze at the back."
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 14",
+            "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+          }
+        ]
+      }
+    },
+    {
+      "n": 20,
+      "date": "2026-10-24",
+      "kind": "Home",
+      "time": "11:00",
+      "tags": [
+        "Chloe Ting 15",
+        "Walk"
+      ],
+      "warmup": "dynamic",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Chloe Ting 2024 Weight Loss Challenge, Day 15",
+          "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+        },
+        {
+          "text": "Hip finisher: standing knee raises, 2 x 15 per leg",
+          "img": "kneeup",
+          "tip": "Slow, knee to hip height."
+        },
+        {
+          "text": "Hip finisher: seated knee raises, 2 x 12 per leg",
+          "img": "seatedknee",
+          "tip": "Seated on a chair, light weight on the knee if easy."
+        },
+        {
+          "text": "Hip finisher: front leg raises, 2 x 12 per leg",
+          "img": "frontraise",
+          "tip": "Leg straight, slow. Ankle weights only once it feels easy."
+        },
+        {
+          "text": "Hip finisher: side-lying leg raises, toes pointing slightly down, 2 x 15 per leg",
+          "img": "sideraise",
+          "tip": "Lying on your side, top leg internally rotated. The one commenters say helps most."
+        },
+        {
+          "text": "Walk 40 min",
+          "img": "treadmill",
+          "tip": "Outside is perfect"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "date": "2026-10-25",
+      "kind": "Recovery",
+      "time": "any",
+      "tags": [
+        "Active rest"
+      ],
+      "note": "Chloe Ting rest day. Easy walk and a full stretch.",
+      "warmup": null,
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Easy walk 30 to 45 min"
+        },
+        {
+          "text": "Full static stretching, 10 min (pictures below)"
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "date": "2026-10-26",
+      "kind": "Rest",
+      "time": "none",
+      "tags": [
+        "Full rest"
+      ],
+      "note": "Full rest. Normal steps only.",
+      "warmup": null,
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Rest. Normal daily steps, sleep well, drink water"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "date": "2026-10-27",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Cardio + posture",
+        "Climber 22",
+        "Chloe Ting 16"
+      ],
+      "warmup": "dynamic",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 15 min: 6.0 km/h, incline 8%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 22 min, level 4 to 5",
+          "img": "climber",
+          "climber": true,
+          "tip": "Continuous."
+        },
+        {
+          "text": "Posture: seated cable row, 3 x 12",
+          "img": "row",
+          "tip": "Moderate weight. Shoulders back and down."
+        },
+        {
+          "text": "Posture: lat pulldown, 3 x 12",
+          "img": "pulldown",
+          "tip": "Moderate weight, no extra arm work."
+        },
+        {
+          "text": "Posture: face pull, 3 x 15",
+          "img": "facepull",
+          "tip": "Opens the chest and shows the collarbones."
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 16",
+            "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+          },
+          {
+            "text": "Hip finisher: standing knee raises, 2 x 15 per leg",
+            "img": "kneeup",
+            "tip": "Slow, knee to hip height."
+          },
+          {
+            "text": "Hip finisher: seated knee raises, 2 x 12 per leg",
+            "img": "seatedknee",
+            "tip": "Seated on a chair, light weight on the knee if easy."
+          },
+          {
+            "text": "Hip finisher: front leg raises, 2 x 12 per leg",
+            "img": "frontraise",
+            "tip": "Leg straight, slow. Ankle weights only once it feels easy."
+          },
+          {
+            "text": "Hip finisher: side-lying leg raises, toes pointing slightly down, 2 x 15 per leg",
+            "img": "sideraise",
+            "tip": "Lying on your side, top leg internally rotated. The one commenters say helps most."
+          }
+        ]
+      }
+    },
+    {
+      "n": 24,
+      "date": "2026-10-28",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Legs: quads",
+        "Chloe Ting 17"
+      ],
+      "warmup": "mobility",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 10 min: 5.8 km/h, incline 6%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 15 min, level 4",
+          "img": "climber",
+          "climber": true,
+          "tip": "Steady."
+        },
+        {
+          "text": "Leg press, feet narrow and low on the platform, 3 x 10, heavier",
+          "img": "legpress",
+          "tip": "Outer quad focus. Knees all the way to the chest, never lock the knees at the top. Last 2 reps should feel close to failure."
+        },
+        {
+          "text": "Deficit goblet squat, 3 x 10, heavier",
+          "img": "goblet",
+          "tip": "Heels on a small plate for a deeper squat. Amanda's main quad move."
+        },
+        {
+          "text": "Bulgarian split squat, 3 x 10 per leg",
+          "img": "split",
+          "tip": "Back foot on a bench. Stay upright for more quad."
+        },
+        {
+          "text": "Leg extension, 3 x 15",
+          "img": "legext",
+          "tip": "Slow on the way down."
+        },
+        {
+          "text": "Core: dead bug 2 x 10 per side + stomach vacuum 3 x 20 s",
+          "img": "deadbug",
+          "tip": "Deep core for a smaller waist. No weighted side bends."
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 17",
+            "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+          }
+        ]
+      }
+    },
+    {
+      "n": 25,
+      "date": "2026-10-29",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Climber 25",
+        "Chloe Ting 18"
+      ],
+      "note": "Longest climber session of the plan. Steady pace, not a race.",
+      "warmup": "dynamic",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Stair climber 25 min, level 4",
+          "img": "climber",
+          "climber": true,
+          "tip": "Continuous."
+        },
+        {
+          "text": "Treadmill 15 min: 5.8 km/h, incline 8%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 18",
+            "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+          },
+          {
+            "text": "Hip finisher: standing knee raises, 2 x 15 per leg",
+            "img": "kneeup",
+            "tip": "Slow, knee to hip height."
+          },
+          {
+            "text": "Hip finisher: seated knee raises, 2 x 12 per leg",
+            "img": "seatedknee",
+            "tip": "Seated on a chair, light weight on the knee if easy."
+          },
+          {
+            "text": "Hip finisher: front leg raises, 2 x 12 per leg",
+            "img": "frontraise",
+            "tip": "Leg straight, slow. Ankle weights only once it feels easy."
+          },
+          {
+            "text": "Hip finisher: side-lying leg raises, toes pointing slightly down, 2 x 15 per leg",
+            "img": "sideraise",
+            "tip": "Lying on your side, top leg internally rotated. The one commenters say helps most."
+          }
+        ]
+      }
+    },
+    {
+      "n": 26,
+      "date": "2026-10-30",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Legs: glutes",
+        "Chloe Ting 19"
+      ],
+      "note": "Last heavy strength session before the wedding.",
+      "warmup": "mobility",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 10 min: 5.8 km/h, incline 6%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 15 min, level 4",
+          "img": "climber",
+          "climber": true,
+          "tip": "Steady."
+        },
+        {
+          "text": "Hip thrust, 3 x 10, heavier",
+          "img": "hipthrust",
+          "tip": "Chin tucked, pause 1 s at the top. Last 2 reps should feel close to failure."
+        },
+        {
+          "text": "Romanian deadlift with dumbbells, 3 x 10, heavier",
+          "img": "rdl",
+          "tip": "Hips back, slight knee bend, feel it in the hamstrings."
+        },
+        {
+          "text": "Leg press, feet wide and high, toes turned out, 3 x 12",
+          "img": "legpress",
+          "tip": "Glutes and glute medius for upper hip width."
+        },
+        {
+          "text": "Hip abduction machine, leaning forward, 3 x 15",
+          "img": "abduct",
+          "tip": "Upper side glutes, right above the hip dip."
+        },
+        {
+          "text": "Cable kickback, 3 x 12 per leg",
+          "img": "kick",
+          "tip": "Small range, squeeze at the back."
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 19",
+            "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+          }
+        ]
+      }
+    },
+    {
+      "n": 27,
+      "date": "2026-10-31",
+      "kind": "Home",
+      "time": "11:00",
+      "tags": [
+        "Chloe Ting 20",
+        "Walk"
+      ],
+      "warmup": "dynamic",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Chloe Ting 2024 Weight Loss Challenge, Day 20",
+          "tip": "Skip the warm-up video after a gym morning. Low-impact versions on strength days."
+        },
+        {
+          "text": "Hip finisher: standing knee raises, 2 x 15 per leg",
+          "img": "kneeup",
+          "tip": "Slow, knee to hip height."
+        },
+        {
+          "text": "Hip finisher: seated knee raises, 2 x 12 per leg",
+          "img": "seatedknee",
+          "tip": "Seated on a chair, light weight on the knee if easy."
+        },
+        {
+          "text": "Hip finisher: front leg raises, 2 x 12 per leg",
+          "img": "frontraise",
+          "tip": "Leg straight, slow. Ankle weights only once it feels easy."
+        },
+        {
+          "text": "Hip finisher: side-lying leg raises, toes pointing slightly down, 2 x 15 per leg",
+          "img": "sideraise",
+          "tip": "Lying on your side, top leg internally rotated. The one commenters say helps most."
+        },
+        {
+          "text": "Walk 45 min",
+          "img": "treadmill",
+          "tip": "Outside is perfect"
+        }
+      ]
+    },
+    {
+      "n": 28,
+      "date": "2026-11-01",
+      "kind": "Recovery",
+      "time": "any",
+      "tags": [
+        "Active rest"
+      ],
+      "note": "Chloe Ting rest day. Easy walk and a full stretch.",
+      "warmup": null,
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Easy walk 30 to 45 min"
+        },
+        {
+          "text": "Full static stretching, 10 min (pictures below)"
+        }
+      ]
+    },
+    {
+      "n": 29,
+      "date": "2026-11-02",
+      "kind": "Rest",
+      "time": "none",
+      "tags": [
+        "Full rest"
+      ],
+      "note": "Full rest. Wedding week starts tomorrow.",
+      "warmup": null,
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Rest. Normal daily steps, sleep well, drink water"
+        }
+      ]
+    },
+    {
+      "n": 30,
+      "date": "2026-11-03",
+      "kind": "Gym + home",
+      "time": "09:00",
+      "tags": [
+        "Wedding week",
+        "Lighter"
+      ],
+      "note": "Wedding week: everything lighter so you're fresh, not sore, on the 7th. Lower salt from today.",
+      "warmup": "dynamic",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 15 min: 5.8 km/h, incline 6%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 15 min, level 4",
+          "img": "climber",
+          "climber": true,
+          "tip": "Steady."
+        },
+        {
+          "text": "Leg press, feet narrow and low on the platform, 2 x 12, lighter",
+          "img": "legpress",
+          "tip": "Outer quad focus. Knees all the way to the chest, never lock the knees at the top."
+        },
+        {
+          "text": "Deficit goblet squat, 2 x 12, lighter",
+          "img": "goblet",
+          "tip": "Heels on a small plate for a deeper squat. Amanda's main quad move."
+        },
+        {
+          "text": "Bulgarian split squat, 2 x 10 per leg",
+          "img": "split",
+          "tip": "Back foot on a bench. Stay upright for more quad."
+        },
+        {
+          "text": "Leg extension, 2 x 15",
+          "img": "legext",
+          "tip": "Slow on the way down."
+        },
+        {
+          "text": "Core: dead bug 2 x 10 per side + stomach vacuum 3 x 20 s",
+          "img": "deadbug",
+          "tip": "Deep core for a smaller waist. No weighted side bends."
+        }
+      ],
+      "afternoon": {
+        "time": "16:00",
+        "label": "Chloe Ting at home",
+        "counts": true,
+        "items": [
+          {
+            "text": "Chloe Ting 2024 Weight Loss Challenge, Day 21",
+            "tip": "Low-impact versions only this week."
+          }
+        ]
+      }
+    },
+    {
+      "n": 31,
+      "date": "2026-11-04",
+      "kind": "Gym",
+      "time": "09:00",
+      "tags": [
+        "Last session",
+        "Easy"
+      ],
+      "note": "Last session before Paris. Easy cardio and a long stretch. Pack tonight.",
+      "warmup": "dynamic",
+      "cooldown": true,
+      "main": [
+        {
+          "text": "Treadmill 25 min: 5.5 km/h, incline 5%",
+          "img": "treadmill",
+          "tip": "3 min easy start, finish 2 min easy"
+        },
+        {
+          "text": "Stair climber 10 min, level 3",
+          "img": "climber",
+          "climber": true,
+          "tip": "Easy."
+        }
+      ]
+    }
+  ]
+}

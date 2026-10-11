@@ -1,0 +1,92 @@
+{
+  "dynamic": [
+    {
+      "text": "March with high knees, 1 min",
+      "img": "march"
+    },
+    {
+      "text": "Arm circles, 30 s each way",
+      "img": "armc"
+    },
+    {
+      "text": "Leg swings, 10 per leg",
+      "img": "swing"
+    },
+    {
+      "text": "Hip circles, 10 each way",
+      "img": "hipc"
+    },
+    {
+      "text": "Squat to calf raise, 10",
+      "img": "squat"
+    },
+    {
+      "text": "Walking lunge with twist, 8 per side",
+      "img": "lunge"
+    }
+  ],
+  "mobility": [
+    {
+      "text": "Leg swings front to back, 10 per leg",
+      "img": "swing"
+    },
+    {
+      "text": "Knee raise and open out to the side, 8 per leg",
+      "img": "kneeup"
+    },
+    {
+      "text": "Half-kneeling hip flexor stretch, push front knee out, 30 s",
+      "img": "hipf"
+    },
+    {
+      "text": "Same position, side reach overhead, 5 per side",
+      "img": "hipf"
+    },
+    {
+      "text": "Pigeon, then grab the back foot, 30 s per side",
+      "img": "glute"
+    },
+    {
+      "text": "90/90 hip switches, 8 per side",
+      "img": "glute"
+    },
+    {
+      "text": "Deep squat hold, elbows push knees out, 30 s",
+      "img": "squat"
+    },
+    {
+      "text": "Forward fold into a squat, 5 slow reps",
+      "img": "ham"
+    }
+  ],
+  "cooldown": [
+    {
+      "text": "Standing quad stretch, foot on a step or in your hand",
+      "img": "quad"
+    },
+    {
+      "text": "Seated hamstring stretch",
+      "img": "ham"
+    },
+    {
+      "text": "Wall calf stretch",
+      "img": "calf"
+    },
+    {
+      "text": "Chest opener, arms wide and back",
+      "img": "chest"
+    },
+    {
+      "text": "Kneeling hip flexor stretch",
+      "img": "hipf"
+    },
+    {
+      "text": "Figure 4 glute stretch, lying",
+      "img": "glute"
+    },
+    {
+      "text": "Child's pose",
+      "img": "child"
+    }
+  ]
+}
